@@ -16,10 +16,13 @@
             <label for="new-password">Create a New Password: <input required pattern="[a-z0-5]{8,}" id="new-password" type="password"/></label>
         </fieldset>
         <fieldset>
-            <label>Personal<input type="radio"/> Personal Business</label>
-            <label>Business<input type="radio"/> Personal Business</label>
+            <legend>Account-Type (required)</legend>
+            <label>Personal<input type="radio" name="account-type" checked /> Personal Business</label>
+            <label>Business<input type="radio" name="account-type"/> Personal Business</label>
         </fieldset>
-        <fieldset></fieldset>
+        <fieldset>
+            <label for="terms-and-conditions"><input  id="terms-and-conditions" type="checkbox" required/></label>
+        </fieldset>
         <input type="submit" value="Submit"/>
     </body>
 </html>
