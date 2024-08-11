@@ -1,0 +1,47 @@
+/* QUESTION - 1 */
+#mainTopic {
+    color: blue;
+}
+/* QUESTION - 2 */
+* {
+    text-align: center;
+}
+/* QUESTION _ 3 */
+h1,
+h3,
+h5 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+/* QUESTION _ 4 */
+.content {
+    color: white;
+    background-color: cornflowerblue;
+}
+/* QUESTION _ 5 */
+button {
+    background-color: purple;
+    color: azure;
+}
+/* QUESTION _ 6 */
+button:hover {
+    background-color: yellow;
+    color: blue;
+}
+/* QUESTION _ 7 */
+p:nth-of-type(1n) {
+    color: yellow;
+}
+/* QUESTION _ 8 */
+h1::first-letter {
+    color: red;
+}
+/* QUESTION _ 9 */
+#yes:checked + label {
+    color: darkgreen;
+}
+/* QUESTION _ 10 */
+Order of Specificity
+/* #mainContent
+div .main
+.main
+h1 */

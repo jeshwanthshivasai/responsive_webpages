@@ -1,7 +1,6 @@
 * {
     font-family: 'Courier New', Courier, monospace;
-    color: blue;
-    background-color: burlywood;
+    /* background-color: burlywood; */
 }
 h3 {
     color: red;
@@ -23,4 +22,43 @@ h1 {
     border-radius: 10px;
     border-width: 10px;
     border-color: rgb(255, 0, 0);
+}
+
+/* descendent-selector */
+ a {
+    color: tomato;
+    background-color: black;
+}
+
+nav ul li a{
+    color: hotpink;
+}
+
+/* attribute-selector */
+input[type="text"] {
+    color:  green;
+    background-color: aqua;
+}
+input[type="password"] {
+    color: red;
+}
+input[type] {
+    background-color: aqua;
+}
+
+/* pseudo-class selector */
+#login:hover {
+    background-color: greenyellow;
+    color: black;
+}
+
+/* pseudo-element selector */
+h1::first-letter {
+    color: black;
+}
+p::first-line {
+    background-color: yellow;
+}
+h3::selection {
+    background-color: aqua;
 }
