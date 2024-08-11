@@ -1,0 +1,15 @@
+div {
+    height: 200px;
+    width: 500px;
+    background-color: hotpink;
+    border-radius: 20px;
+    border-color: black;
+    border-style: dashed;
+    padding: 20px;
+}
+h1 {
+    border-width: 20px;
+    border-style: double;
+    border-radius: 10px;
+    padding: 10px;
+}
