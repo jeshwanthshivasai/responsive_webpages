@@ -1,0 +1,9 @@
+h2 {
+    color: #ffa511;
+    text-align: center;
+    size: 55px;
+    font-weight: 900;
+    letter-spacing: 2px;
+    text-decoration: double underline cyan;
+    text-transform: uppercase;
+}
