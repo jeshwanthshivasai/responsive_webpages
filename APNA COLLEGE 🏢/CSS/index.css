@@ -18,3 +18,9 @@ h1 {
     background-color: chartreuse;
     border-style: dotted;
 }
+.upvote {
+    background-color: aqua;
+    border-radius: 10px;
+    border-width: 10px;
+    border-color: rgb(255, 0, 0);
+}
