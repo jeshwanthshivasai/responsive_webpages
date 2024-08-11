@@ -1,0 +1,20 @@
+* {
+    font-family: 'Courier New', Courier, monospace;
+    color: blue;
+    background-color: burlywood;
+}
+h3 {
+    color: red;
+}
+h1 {
+    color: chartreuse;
+}
+#login {
+    color: chartreuse;
+    background-color: black;
+    border-radius: 20px;
+}
+#signup {
+    background-color: chartreuse;
+    border-style: dotted;
+}
