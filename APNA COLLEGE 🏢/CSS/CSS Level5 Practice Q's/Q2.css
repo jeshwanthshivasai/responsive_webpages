@@ -1,0 +1,16 @@
+.navbar-container {
+    height: 50px;
+    width: 900px;
+    background-color: pink;
+    border-radius: 10px;
+    border: 10px solid lightseagreen;
+    /* justify-content: flex-start; */
+}
+.navbar-content li {
+    height: 50px;
+    width: 80px;
+    list-style: none;
+    display: flex;
+    display: inline-block;
+    /* justify-content: flex-start; */
+}

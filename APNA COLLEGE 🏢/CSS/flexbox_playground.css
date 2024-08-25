@@ -1,0 +1,10 @@
+#container {
+    height: 600px;
+    width: 80%;
+    background-color: hotpink;
+    border: 2px double white;
+}
+h1 {
+    text-align: center;
+}
+
