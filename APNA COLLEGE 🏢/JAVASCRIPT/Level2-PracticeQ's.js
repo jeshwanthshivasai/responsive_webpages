@@ -28,10 +28,10 @@ switch (quarter) {
 
 //Q-4
 let word = 'app';
-if(word[0] === 'A' || word[0] === 'a' && word.length >= 5 ) {
-   console.log('golen string');
+if(word[0] === 'A' || word[0] === 'a' && word.length > 5 ) {
+   console.log('golden string');
 } else {
-    console.log('not golen string');
+    console.log('not golden string');
 }
 
 //Q-5
