@@ -98,4 +98,5 @@ body {
   width: 10px;
   height: 20px;
   background-color: #fff;
+  transform: rotate(10deg);
 }
