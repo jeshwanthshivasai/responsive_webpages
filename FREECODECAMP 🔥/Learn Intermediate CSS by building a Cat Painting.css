@@ -100,3 +100,9 @@ body {
   background-color: #fff;
   transform: rotate(10deg);
 }
+
+.cat-right-inner-eye {
+  width: 10px;
+  height: 20px;
+  background-color: #fff;
+}
