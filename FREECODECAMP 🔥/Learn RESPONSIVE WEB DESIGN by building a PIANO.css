@@ -33,4 +33,9 @@ html {
     left: -18px;
     width: 32px;
     height: 100px;
-  }
+}
+.logo {
+    width: 200px;
+    position: ansolute;
+    top: 23px;
+}
