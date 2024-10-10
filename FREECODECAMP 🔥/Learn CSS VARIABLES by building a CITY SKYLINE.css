@@ -23,6 +23,8 @@ body {
     align-items: flex-end;
     justify-content: space-evenly;
 }
+/*FOREGROUND BUILDINGS - "fb" stands for "foreground building"*/
+/*BACKGROUND BUILDINGS - "bb" stands for "background building"*/
 .bb1 {
     width: 10%;
     height: 70%;
