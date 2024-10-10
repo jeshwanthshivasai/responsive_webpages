@@ -87,6 +87,8 @@ body {
   width: 8%;
   height: 45%;
   background-color: var(--building-color1);
+  position: relative;
+  left: 10%;
 }
 .fb5 {
   width: 10%;
@@ -97,4 +99,6 @@ body {
   width: 9%;
   height: 38%;
   background-color: var(--building-color3);
+  position: relative;
+  right: 10%;
 }
