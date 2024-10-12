@@ -33,6 +33,14 @@ body {
   justify-content: space-evenly;
   align-items: center;
 }
+.sky {
+  background: radial-gradient(
+    #ffcf33 0%,
+    #ffcf33 20%,
+    #ffff66 21%,
+    #bbeeff 100%
+  )
+}
 /*FOREGROUND BUILDINGS - "fb" stands for "foreground building"*/
 /*BACKGROUND BUILDINGS - "bb" stands for "background building"*/
 .bb1 {
