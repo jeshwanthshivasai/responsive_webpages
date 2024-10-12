@@ -26,6 +26,9 @@ body {
     align-items: flex-end;
     justify-content: space-evenly;
 }
+.building-wrap {
+  
+}
 /*FOREGROUND BUILDINGS - "fb" stands for "foreground building"*/
 /*BACKGROUND BUILDINGS - "bb" stands for "background building"*/
 .bb1 {
