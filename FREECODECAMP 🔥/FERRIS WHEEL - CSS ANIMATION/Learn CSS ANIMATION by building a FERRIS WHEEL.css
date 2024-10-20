@@ -17,3 +17,7 @@
     top: 50%;
     transform-origin: 0% 0%;
 }
+/* selector to target the second .line element */
+.line:nth-of-type(2) {
+    transform: rotate(60deg);
+}
