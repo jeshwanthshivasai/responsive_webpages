@@ -13,3 +13,7 @@ body {
     z-index: 3;
     position: absolute;
 }
+.penguin {
+    height: 300px;
+    width: 300px;
+}
