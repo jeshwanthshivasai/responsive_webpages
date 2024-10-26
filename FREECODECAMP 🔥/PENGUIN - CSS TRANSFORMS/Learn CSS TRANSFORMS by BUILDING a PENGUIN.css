@@ -157,6 +157,9 @@ body {
 .penguin * {
     position: absolute;
 }
+.penguin:active {
+    transform: scale(1.5);
+}
 .penguin-body::before {
     content: "";
     position: absolute;
