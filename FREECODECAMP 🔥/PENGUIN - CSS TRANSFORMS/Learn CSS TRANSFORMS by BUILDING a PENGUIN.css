@@ -186,6 +186,9 @@ body {
   right: -5%;
   transform: rotate(-45deg);
 }
+@keyframes wave {
+    
+}
 .foot {
     width: 15%;
     height: 30%;
