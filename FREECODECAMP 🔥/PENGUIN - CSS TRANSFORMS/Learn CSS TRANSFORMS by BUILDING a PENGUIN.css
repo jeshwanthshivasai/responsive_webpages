@@ -166,3 +166,8 @@ body {
     border-radius: 0% 0% 100% 10%;
     opacity: 70%;
 }
+.foot {
+    width: 15%;
+    height: 30%;
+    background-color: orange;
+}
