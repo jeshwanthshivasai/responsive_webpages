@@ -137,6 +137,9 @@ body {
     font-family: Helvetica, sans-serif;
     font-weight: bold;
 }
+.shirt div {
+    font-weight: normal;
+}
 .penguin-body {
     width: 53%;
     height: 45%;
