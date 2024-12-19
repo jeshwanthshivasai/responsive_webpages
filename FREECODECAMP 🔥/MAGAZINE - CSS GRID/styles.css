@@ -36,5 +36,5 @@ This will create three columns where the middle column is 94rem wide, and the fi
 */
 main {
     display: grid;
-    grid-template-columns: 1fr 94rem 1fr;
+    grid-template-columns: minmax(2rem, 1fr) minmax(min-content, 94rem) minmax(2rem, 1fr);
 }
