@@ -40,10 +40,11 @@ main {
     row-gap: 3rem;
 }
 
-heading {
-  grid-column: 2/3;
+.heading {
+    display: grid;
+    grid-column: 2/3;
 }
 
 .text {
-  grid-column: 2/3;
+    grid-column: 2/3;
 }
