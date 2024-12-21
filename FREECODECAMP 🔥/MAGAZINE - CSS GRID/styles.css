@@ -97,4 +97,5 @@ img {
   The dense value allows the algorithm to backtrack and fill holes in the grid with smaller items, which can result in items appearing out of order.
   */
   grid-auto-flow: column;
+  grid-auto-columns: 1fr;
 }
