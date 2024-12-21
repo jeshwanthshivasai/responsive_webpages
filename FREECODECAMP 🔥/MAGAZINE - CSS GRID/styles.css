@@ -45,6 +45,10 @@ img {
   object-fit: cover;
 }
 
+hr {
+  margin: 1.5rem 0;
+}
+
 .heading {
   display: grid;
   grid-template-columns: repeat(2, 1fr);
