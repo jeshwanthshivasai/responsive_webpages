@@ -143,3 +143,7 @@ hr {
   list-style-type: none;
   margin-top: 2rem;
 }
+
+.list li {
+  margin-bottom: 1.5rem;
+}
