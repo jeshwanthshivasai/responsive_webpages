@@ -144,6 +144,10 @@ hr {
   margin-top: 2rem;
 }
 
-.list li {
+.lists li {
   margin-bottom: 1.5rem;
+}
+
+.list-title, .list-subtitle {
+  color: #00beef;
 }
