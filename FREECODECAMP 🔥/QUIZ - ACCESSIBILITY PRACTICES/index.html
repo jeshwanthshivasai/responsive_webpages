@@ -47,11 +47,14 @@
             <section role="region" aria-labelledby="html-questions">
                 <h2 id="html-questions">HTML</h2>
                 <div class="question-block">
-                    <h3>1</h3>
+                    <!-- The question numbers are not descriptive enough.
+                    This is especially true for visually impaired users.
+                    One way to get around such an issue, without having to add visible text to the element, is to add text only a screen reader can read. -->
+                    <h3> <span class="sr-only"></span> 1</h3>
                     <fieldset class="question"></fieldset>
                 </div>
                 <div class="question-block">
-                    <h3>2</h3>
+                    <h3> <span class="sr-only"></span> 2</h3>
                     <fieldset class="question"></fieldset>
                 </div>
             </section>
