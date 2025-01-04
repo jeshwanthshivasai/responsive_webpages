@@ -49,6 +49,10 @@ h2 {
   border-bottom: 4px solid #dfdfe2;
 }
 
+h3::before {
+  content: "Question #"
+}
+
 /* The .sr-only text is still visible.
 There is a common pattern to visually hide text for only screen readers to read.
 This pattern is to set the following CSS properties: */
