@@ -47,6 +47,10 @@ nav li {
   display: block;
 }
 
+li > a {
+  color: inherit;
+}
+
 h1,
 h2 {
   font-family: Verdana, Tahoma;
