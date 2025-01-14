@@ -41,6 +41,15 @@ main {
   padding-top: 25px;
 }
 
+section {
+  width: 80%;
+  margin-top: 0;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 10px;
+  max-width: 600px;
+}
+
 /*
 The child combinator selector > is used between selectors to target only elements that match the second selector and are a direct child of the first selector.
 */
