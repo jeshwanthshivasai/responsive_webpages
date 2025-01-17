@@ -108,6 +108,10 @@ input {
   font-size: 1rem;
 }
 
+.info label, .info input {
+  display: inline-block;
+}
+
 .info input {
   width: 50%;
   text-align: left;
