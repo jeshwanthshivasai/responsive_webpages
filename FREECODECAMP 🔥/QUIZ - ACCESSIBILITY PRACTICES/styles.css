@@ -140,6 +140,11 @@ h3::before {
   content: "Question #"
 }
 
+.question {
+  border: none;
+  padding-bottom: 0;
+}
+
 /* The .sr-only text is still visible.
 There is a common pattern to visually hide text for only screen readers to read.
 This pattern is to set the following CSS properties: */
