@@ -166,6 +166,10 @@ footer {
   justify-content: center;
 }
 
+footer, footer a {
+  color: #dfdfe2;
+}
+
 /* The .sr-only text is still visible.
 There is a common pattern to visually hide text for only screen readers to read.
 This pattern is to set the following CSS properties: */
