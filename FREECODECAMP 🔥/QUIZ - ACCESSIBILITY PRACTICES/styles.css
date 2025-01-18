@@ -170,6 +170,11 @@ footer, footer a {
   color: #dfdfe2;
 }
 
+address {
+  text-align: center;
+  padding: 1px;
+}
+
 /* The .sr-only text is still visible.
 There is a common pattern to visually hide text for only screen readers to read.
 This pattern is to set the following CSS properties: */
